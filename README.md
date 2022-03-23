@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmad-El-Eter
 - 👀 I’m interested in programming front-end, i like to make things prettier
 - 🌱 I’m currently learning HTML CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on Front End development
+- 💞️ I’m looking to collaborate in Front End development
 - 📫 You can contatct me on my e-mail ahmad.aleterbr@gmail.com
 
 <!---
