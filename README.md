@@ -1,6 +1,6 @@
 ## Olá eu sou Ahmad El Eter!
 
-- 👀 Atualmente estou praticando meus conehcimentos em HTML e CSS
+- 👀 Atualmente estou praticando meus conehcimentos em HTML, CSS e JavaScript
 - 🌱 Estou aprendendo a linguagem JavaScript
 - 💞️ Estou focado em ser front-end dev
 
